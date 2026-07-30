@@ -1,6 +1,6 @@
 title: "B.Tech Theory Class"
 description: "Course materials, tutorials, and assignments."
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 url: "https://arijitspy.github.io/btech-theory-2026"
 
 # ---- Nav / footer ----
