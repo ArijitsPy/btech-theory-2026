@@ -1,17 +1,34 @@
 ---
-layout: default
 title: Home
+layout: home
 nav_order: 1
+description: "B.Tech Theory course site — syllabus, tutorials, assignments, materials, and results."
+permalink: /
 ---
 
-# B.Tech Theory: Physics of Waves
+# B.Tech Theory
+{: .fs-9 }
 
-Welcome to the course dashboard. This portal contains our weekly tutorials, assignment submission links, and graded results.
+Everything for this course lives here: weekly tutorial questions, assignment links, reference material, and your results — all in one place, updated every week.
+{: .fs-6 .fw-300 }
 
-## Class Hours
-*   **Time:**
-*   - Thursdays, 7:55 AM - 9:00 AM
-    - Fridays, 3:55 PM - 5:00 PM
-*   **Contact:**
-*   - mearijitsiker25@kgpian.iitkgp.ac.in (Roll: 25PH91R06)
-*   
+[Tutorial questions](/tutorials.md){: .btn .btn-primary .mr-2 }
+[Assignments & submission](/assignments.md){: .btn .mr-2 }
+[Check your results](/marks.md){: .btn }
+
+---
+
+## What's here
+
+| Page | What you'll find |
+|:--|:--|
+| [Syllabus](/syllabus.md) | Week-by-week topics and reference chapters |
+| [Tutorials](/tutorials.md) | Weekly problem sheets, some solved in class, some for self-practice |
+| [Assignments](/assignments.md) | Graded assignments and how to submit each type |
+| [Materials](/materials.md) | Reference PDFs, datasets, and reading |
+| [Marks](/marks.md) | Your results, looked up by your Secret ID |
+| [Contact / Office hours](/contact.md) | TA details and when to find me |
+
+{: .note }
+> New here? Start with [Syllabus](/syllabus.md), then check [Tutorials](/tutorials.md) each week — new sheets are posted before every session.
+> 
