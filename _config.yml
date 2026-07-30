@@ -1,4 +1,21 @@
 title: "B.Tech Theory Class"
 description: "Course materials, tutorials, and assignments."
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 url: "https://arijitspy.github.io/btech-theory-2026"
+
+# ---- Nav / footer ----
+nav_order_default: 100
+footer_content: "Copyright &copy; 2026 B.Tech Theory."
+
+# ---- Callouts (used for notices in Markdown pages) ----
+callouts_level: quiet
+callouts:
+  important:
+    title: Important
+    color: red
+  note:
+    title: Note
+    color: blue
+  submission:
+    title: Submission
+    color: green
