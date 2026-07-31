@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assignment Submissions
+title: Assignment
 nav_order: 3
 ---
 
