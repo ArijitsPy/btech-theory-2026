@@ -2,7 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
-description: "B.Tech Theory course site — syllabus, tutorials, assignments, materials, and results."
+description: "B.Tech Theory course site — syllabus, tutorials, assignments, materials."
 permalink: /
 ---
 
