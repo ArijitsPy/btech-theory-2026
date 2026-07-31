@@ -1,3 +1,11 @@
+---
+layout: default
+title: Syllabus
+nav_order: 4
+---
+
+# Syllabus
+
 1. Oscillations
 	- Simple Harmonic Oscillators SHO
 	- Complex Representation.
