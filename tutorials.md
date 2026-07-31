@@ -6,14 +6,13 @@ nav_order: 2
 
 # Tutorials
 
-Here are the computational and theoretical problems we will cover in our TA sessions.
+Here are the theoretical problems we will cover in our TA sessions.
 
-## Tutorial 1: The Gross-Pitaevskii Equation
+## Tutorial 1: Problems on Simple Harmonic Motion
 
-The time-dependent Gross-Pitaevskii equation (GPE) for a Bose-Einstein Condensate is given by:
+The differential equation for the simple harmonic motion is given by:
+$$m\frac{d^2x}{dt^2} = -\omega^2x$$  where, $\omega$ is the angular frequency.
 
-$$ i\hbar \frac{\partial \psi(\mathbf{r},t)}{\partial t} = \left[ -\frac{\hbar^2}{2m}\nabla^2 + V_{ext}(\mathbf{r}) + g|\psi(\mathbf{r},t)|^2 \right] \psi(\mathbf{r},t) $$
+<iframe src="https://drive.google.com/file/d/15fQx7KUyOK_AhUaSbKtJBiD9Ka6zpFIW/view?usp=drive_link" width="100%" height="800px" border="0"></iframe>
 
-### Practice Questions
-1.  Derive the stationary state GPE by substituting $\psi(\mathbf{r},t) = \phi(\mathbf{r})e^{-i\mu t/\hbar}$.
-2.  Write a Python script using the Split-Step Fourier method to evolve this state.
+---
