@@ -6,8 +6,12 @@ description: "B.Tech Theory course site — syllabus, tutorials, assignments, ma
 permalink: /
 ---
 
-# B.Tech Theory
+# B.Tech Theory: Physics of Waves
 {: .fs-9 }
+
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&w=1200&h=400&q=80" alt="Quantum Physics Simulation Banner" style="border-radius: 12px; width: 100%; max-height: 350px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px;">
+</div>
 
 Everything for this course lives here: weekly tutorial questions, assignment links, reference material, and your results — all in one place, updated every week.
 {: .fs-6 .fw-300 }
